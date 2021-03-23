@@ -1,0 +1,62 @@
+.add{
+    background-color: #1abc9c;
+    border-radius: 50%;
+    color: white;
+    padding: 5px 20px;
+    font-size: 42px;
+    text-decoration: none;
+}
+
+.custom-btn{
+  background-color: #1abc9c;
+  border-radius: 50%;
+  border-color: transparent;
+  border-width: 0;
+  font-size: 30px;
+  color: white;
+  position: fixed;
+  bottom: 9.5%;
+  right: 8%;
+  width: 50px;
+  min-height: 50px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  padding-bottom: 5px;
+  outline: none;
+}
+
+
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.navbar {
+    padding-top: 25px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+
+.navbar-nav  li a:hover {
+    color: #1abc9c !important;
+}
+
+.form{
+  padding-right: 3.5%;
+}
+
+.footer {
+  background-color: #1abc9c;
+  padding: 20px;
+  height: 60px;
+	text-align: center;
+	width: 100%;
+}
+
+.footer p {
+	font-size: 12px;
+  color: #fff;
+}
